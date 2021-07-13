@@ -1,3 +1,7 @@
 # Frontend
 
-####  :lemon: [Lemon Pie](https://jazminmald.github.io/Frontend/LemonPie/) :lemon:
+####  🍋 [Lemon Pie](https://jazminmald.github.io/Frontend/LemonPie/) 🍋
+
+#### 🐶 [Petshop](https://jazminmald.github.io/Frontend/PetShop/) 🐱
+
+#### 🦇 [CV Batman](https://jazminmald.github.io/Frontend/CVBatman/) 🦇
