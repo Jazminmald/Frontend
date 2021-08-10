@@ -6,4 +6,4 @@
 
 #### 🦇 [CV Batman](https://jazminmald.github.io/Frontend/CVBatman/) 🦇
 
-#### 💐 [CV Propio](https://jazminmald.github.io/Frontend/CVPersonal/) 💐
+#### 🌸 [CV Propio](https://jazminmald.github.io/Frontend/CVPersonal/) 🌸
