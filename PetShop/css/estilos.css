@@ -1,0 +1,25 @@
+
+/*header*/
+
+#principal{
+    background-color:#222222 ;
+   color: #F3F3F3 ;
+   
+    }
+
+#logo{
+    background-color: #F0A83E ;
+    color: #FFFFFF;
+}
+
+/*main*/
+
+#slide{
+    background: url(/img/bowl-and-pet-daities-on-green-background.png);
+    background-attachment: fixed ;
+    background-size: 130px;
+    background-position: absolute;
+    width: 1025px;
+    height: 409px;
+    
+}

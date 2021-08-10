@@ -1,0 +1,116 @@
+/* Estilos Generales */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700;900&display=swap'); 
+@font-face{
+    src: url("../fonts/Inter/static/Inter-Bold.ttf");
+    font-family: "Inter-Bold";
+}
+@font-face{
+    src: url("../fonts/Inter/static/Inter-Regular.ttf");
+    font-family: "Inter-Regular";
+}
+body{
+    font-family: 'Inter-Bold', sans-serif;
+}
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+*{
+   /* background-color: rgb(193, 222, 238);*/
+}
+
+/* Header */
+
+
+
+/* Main */  
+header{
+background-color: rgb(146, 155, 160);
+background-image: url('../img/fondojazmines.png') ;
+background-position: bottom;
+background-attachment: fixed;
+display: flex;
+margin: 5px;
+padding: 5px;
+text-align: center;
+align-items: center;
+justify-content: space-evenly;
+flex-direction: row;
+
+}
+.perfil {
+    width:200px;
+    border:5px solid #F4DFD0;
+}
+
+main{
+   background-color: #787876;
+}
+
+
+h1{
+    font-weight: 500;
+    font-family: 'Inter-Regular', sans-serif;
+    color: #c4c3c2;;
+    text-align: center;
+    width: 90%;
+    padding: 12px;
+    background-color: #787876
+    ;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+    background-color:white;   
+    color:#DAD0C2;
+    align-items: center;
+}
+.section div{
+    background-color: #939492;
+    text-align: center;
+    width: 500px;
+    margin: 10px;
+    border: 5px solid #F4DFD0;
+}
+
+
+h2 {
+    font-size: 30px; 
+    font-weight: 500;
+    color: #5c5c5c;
+    text-align: center;
+}
+
+
+
+
+/* Footer */
+footer {
+    display: flex;
+    color: #c4c3c2;;
+    background-color: #5c5c5c;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    justify-content: space-around;
+    align-content: space-between;
+    align-items: center;
+
+}
+footer a{
+    padding: 10px;
+    border: 205px;
+    margin: 20px;
+}
+footer p {
+   color: #F4DFD0;
+}
+
+P{
+    font-weight: bold;
+}
